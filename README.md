@@ -1,32 +1,34 @@
 E-commerce Metrics Analysis
 
-This project presents a detailed SQL-based analysis of key performance metrics for an e-commerce platform.
-Using PostgreSQL and event-level data, it explores how user behavior impacts sales performance and retention over time.
+This project provides a case study on SQL-based analysis of key performance measures of an e-commerce platform
+It researches the effects of user behavior on sales performance and its retention over time with the help of PostgreSQL and event-level data
 
 Main Objectives
 
-Measure and interpret Sales Conversion Rate — how effectively visits turn into transactions.
+Measure and interpret Sales Conversion rate- the efficiency of conversion of visits into transactions
 
-Calculate Returning Customer Rate — how many customers make repeat purchases.
+Calculate Returning Customer Rate — the frequency of customers making repeat purchase
 
-Track Website Traffic and user engagement across different time periods.
+Monitor Website Traffic and user interaction by time
 
-Evaluate Add-to-Cart Rate and Cart Abandonment Rate as indicators of purchase intent.
+Measures of purchase intent include Add-to-Cart Rate and Cart Abandonment Rate
 
-Analyze Average Order Value (AOV) to understand spending patterns.
+Examine Average Order Value (AOV) in order to know how people spend
 
-Estimate Monthly Recurring Revenue (MRR) to assess long-term growth.
+As an indicator of long-term growth, estimate Monthly Recurring Revenue (MRR)
 
 
 Tools & Methods
 
-PostgreSQL for data analysis and query optimization
+PostgreSQL
 
-Window functions, aggregations, and CTEs for metric computation
+Window functions, aggregations, subqueries and CTEs for metric computation
 
-Timestamp-based grouping to track monthly performance trends
+Power BI
+
+Graphs, visualizations, Power Query
 
 
 Key Insights
 
-The analysis helps identify behavioral trends among visitors, the effectiveness of conversion funnels, and potential areas to improve retention and monetization.
+The analysis helps identify behavioral trends among visitors, the effectiveness of conversion funnels, and potential areas to improve retention and monetization
