@@ -1,0 +1,38 @@
+# Conclusion and Strategic Recommendations
+Executive Summary  
+
+The RetailRocket data analysis (May-Sept 2015) provides the picture of the company that can get consistent attention but fails to create value. Though the Add-to-Cart rate (approximately 2.6) does not decrease, Sales Conversion Rate (0.83) is much less than the average in the e-commerce sector (approximately 2-3). This implies that there is a critical leak at the funnel through the checkout stage
+  
+At the same time, the firm was experiencing powerful negative economic wind. The average value of orders in Euros fell by 13.7 percent in the period due to devaluation of the currency. Although the increase in revenues in certain months (July) was positive among high-value users, the general tendency is the inability to retain customers and continue purchasing value
+  
+Key Data Insights
+1. The Bottleneck of Checkout Friction
+User intent/user action is massively disconnected
+Data: The rate of adding items to carts is consistent (2.6%), but only 0.83% of that is converted to a transaction.
+Insight: Customers are discovery products that they like, although its checkout is a stumbling block. This implies difficulties like: difficult registration process, absence of payment systems, or unforeseen shipping expenses in the nick of the time
+  
+2. The Revenue Impact of Inflation Effect
+Each month, the company is making lower profits on an order
+Data: AOV decreased steadily, as in May it was equal to 24.64 and in September it was equal to 21.25.
+Observation: With the weakening of the Ruble in 2015, the actual value of customer purchases had decreased. This is the reason why the Churn MRR (contraction) was high; loyal buyers did not necessarily purchase fewer products but their buying capacity had decreased resulting in a value in the lower-end basket
+  
+3. July Paradox (Quality vs. Quantity)
+The most revealing and deviant month was July
+Data: Customer Retention has reached its lowest level (1.75%), but Net MRR Growth was also positive ( + €8.7M).
+Realisation: As the summer season entered, the store lost window shoppers (low-retention) and monetised high-intent shoppers. This is an indication that a smaller base of loyal users is more lucrative to this business than huge traffic but of inferior quality
+  
+Strategic Actions
+  
+According to the statistics, the recommendations that will help increase performance are as follows:
+1. Optimize the Bottom of the Funnel (Technical)
+Action: Add a Guest Checkout feature and decrease abandonment
+Action: Put shipping prices in front of cart stage to control expectations
+Goal: Add-to-Cart (2.6) to Conversion (0.8) means that the shortest time to increase revenue (without investing in acquiring new traffic) is to halve the difference
+  
+2. Fight against Falling AOV (Merchandising)
+Action: Introduce a Product Bundling (e.g., Buy these 3 items and get a 10% discount)
+Rationale: As the currency value is decreasing, bundling would encourage the user to include more items in the cart, which will artificially increase the AOV to the level of the €25 range
+  
+3. Invest in Retention as opposed to Acquisition(Marketing)
+Action: Introduce a Win-Back email campaign to those who have not made a purchase within 30 days
+Reason: The business by its very nature is too dependent on the need to locate new customers on a daily basis with a retention rate of just about 2.5. To stabilize the Net MRR Growth, retention would have to increase to only 5%
